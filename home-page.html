@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Home page">
+    <meta name="author" content="Dylan K Ncube">
+    <link rel="icon" href="images/favorite-favicon.ico">
+    <!--  Essential META Tags -->
+    <meta property="og:title" content="Home | Dylan K Ncube">
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="">
+
+    <title>Home | Dylan K Ncube</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Barlow&family=Lato&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles/normalize.css">
+    <link rel="stylesheet" href="styles/style-small.css">
+    <link rel="stylesheet" href="styles/style-large.css">
+    <script src="scripts/main.js" defer></script>
+    <script src="scripts/courses.js" defer></script>
+
+</head>
+
+<body>
+    <header>
+        <div class="contenedor">
+            <img class="avatar" src="images/dylan.jpg" alt="Dylan K Ncube photo">
+        </div>
+        <h1>Dylan K Ncube</h1>
+        <button id="menu" title="Menu"></button>
+    </header>
+    <nav>
+        <ul>
+            
+            <li><a class="active" href="/index.html">Home</a></li>
+            <li><a href="Final"target="_blank">Final</a></li>
+            <li><a href="https://github.com/Dylan2001coder" target="_blank">GitHub Profile</a></li>
+            <li><a href="https://www.linkedin.com/in/dylan-ncube-896135313" target="_blank">LinkedIn Profile</a></li>
+            <li><a href="chamber/index.html" target="_blank">Chamber</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section class="courseWork-box">
+            <h2>Course Work</h2>
+            <ul>
+                <li>Chamber of Commerce Site Planning</li>
+                <li>Chamber of Commerce Directory Page</li>
+                <li>Chamber Home Page</li>
+                <li>Chamber Membership Application Form / Project Subject Proposal</li>
+                <li>Chamber Discover Page / Project Site Plan
+                </li>
+                <li>Individual Website Project</li>
+                <li>Final Exam Test</li>
+            </ul>
+        </section>
+        <section class="country-box">
+            <h2>Zimbabwe</h2>
+            <picture>
+                <source media="(min-width: 768px)" srcset="images/vicfalls1.webp">
+                <source media="(min-width: 1024px)" srcset="images/vicfalls1.webp">
+
+                <img src="images/vicfalls1.webp" alt="Victoria Falls Zimbabwe" width="300" height="225">
+            </picture>
+            <p>Zimbabwe</p>
+        </section>
+        <section class="certificate-box">
+            <h2>Web and Computer Programming certificate</h2>
+            <div class="boxButton">
+                <button class="courseButton" value="all" title="Filter button">All</button>
+                <button class="courseButton" value="cse" title="Filter button">CSE</button>
+                <button class="courseButton" value="wdd" title="Filter button">WDD</button>
+            </div>
+            <div class="boxcertificate01 boxCourse"></div>
+            <dialog id="courses-details"></dialog>
+            <p id="totalCreditsCert01">Total Credits for Certificate 1: 0</p>
+        </section>
+
+    </main>
+    <footer>
+        <p>&copy;<span id="currentyear">Lorem</span> Dylan K Ncube |
+            Zimbabwe</p>
+        <p id="lastModified">Lorem ipsum</p>
+        
+    </footer>
+</body>
+
+</html>
