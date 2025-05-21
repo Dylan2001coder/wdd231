@@ -1,0 +1,101 @@
+[
+    {
+        "Name": "Glen Lodge and Tours",
+        "Industry": "Tourism and Hospitality",
+        "Physical Address": "Number 8 Oregon Ave, Newtown West, Bulawayo, Zimbabwe",
+        "Website": "https://www.glenlodgeandtours.com/",
+        "Phone": "+263 772 930 169",
+        "Representative": "Beauty Bhulu / C.E.O",
+        "MemberSince": "05/01/2012",
+        "Membership": "Platinum",
+        "logo": "https://www.glenlodgeandtours.com/images/logo.png"
+    },
+    {
+        "Name": "Millenium Footware",
+        "Industry": "Manufacturer",
+        "Physical Address": "6 Wallasey Road Belmont Bulawayo Zimbabwe",
+        "Website": "http://www.milleniumfootwear.co.zw/",
+        "Phone": "+263772287271",
+        "Representative": "Glenn Tjon  / Innovation Strategist",
+        "MemberSince": "11/01/2022",
+        "Membership": "Gold",
+        "logo": "http://www.milleniumfootwear.co.zw/templates/yootheme/cache/MilleniumFootwearLogo-53f8ac60.webp"
+    },
+    {
+        "Name": "Instant Solutions and Consultancy",
+        "Industry": "Consultancy",
+        "Physical Address": "Suite 309, 3rd Floor York House Cnr 8th Avenue & Herbet Chipeto Bulawayo ",
+        "Website": "https://www.isncworld.com/",
+        "Phone": "+263 (292) 271151",
+        "Representative": "Israel Meza / Site Manager ;Fernando Pellicano / LATAM Plant Operations Director- SEM",
+        "MemberSince": "11/01/2016",
+        "Membership": "Gold",
+        "logo": "https://www.isncworld.com/templates/yootheme/cache/isncworldtranspaprent-ba8e0de0.webp"
+    },
+    {
+        "Name": "Zimbabwe Open University",
+        "Industry": "Education",
+        "Physical Address": "Corner House, corner Leopard Takawira and Samora Machel Avenue",
+        "Website": "https://zou.ac.zw/",
+        "Phone": "+263 242 793003",
+        "Representative": "Mary Chakanaka / CEO",
+        "MemberSince": "05/01/2014",
+        "Membership": "Bronze",
+        "logo": "https://zou.ac.zw/wp-content/uploads/2020/12/logo-2.png"
+    },
+    {
+        "Name": "Davipel Holdings",
+        "Industry": "Manufacturer",
+        "Physical Address": "No. 17 Sunway City Industrial Park, Ventersburg, Harare",
+        "Website": "https://www.davipel.co.zw/",
+        "Phone": "0867 7004 995",
+        "Representative": "Davison Norupiri / CEO",
+        "MemberSince": "05/02/2019",
+        "Membership": "Silver",
+        "logo": "https://www.davipel.co.zw/wp-content/uploads/2022/02/logof.png"
+    },
+    {
+        "Name": "The Diamond Company",
+        "Industry": "Manufacturer",
+        "Physical Address": "Cosham Avenue, Borrowdale, Harare Zimbabwe",
+        "Website": "https://www.zcdco.com/#",
+        "Phone": "+263 8677007476 ",
+        "Representative": "Dr. Douglas Zimbango / CEO",
+        "MemberSince": "12/01/2020",
+        "Membership": "Platinum",
+        "logo": "https://www.zcdco.com/wp-content/uploads/2020/12/Logo-white.png"
+    },
+    {
+        "Name": "Liquid Intelligent Technologies",
+        "Industry": "Service Provider",
+        "Physical Address": "Block B, Stand 45 and 47, Sam Levy Office Park, Piers road, Borrowdale Harare",
+        "Website": "https://liquid.tech/local-offices/country/zimbabwe/",
+        "Phone": "+263 8677 030 000",
+        "Representative": "Lorreta Songola / Managing Director",
+        "MemberSince": "11/01/2020",
+        "Membership": "Platinum",
+        "logo": "https://liquid.tech/wp-content/uploads/2022/12/logo_LIQUID-2048x598.png"
+    },
+    {
+        "Name": "Mimosa Mining",
+        "Industry": "Manufacturer",
+        "Physical Address": "12 Kenilworth Road P.O Box 7969 Newlands Harare Zimbabwe",
+        "Website": "https://www.mimosa.co.zw/",
+        "Phone": "+263242 / 797578 ",
+        "Representative": "Miguel Bolinaga / President & CEO",
+        "MemberSince": "05/01/1999",
+        "Membership": "Silver",
+        "logo": "https://www.mimosa.co.zw/sites/mimosa-mining-corp/files/mimosa-mining-logo.png"
+    },
+    {
+        "Name": "Nyaradzo",
+        "Industry": "Service Provider",
+        "Physical Address": "Sabi House 18 Park Street P.O Box 3250 Harare Zimbabwe",
+        "Website": "https://nyaradzo.co.zw/funeral-services/",
+        "Phone": "+263-242-796694-7",
+        "Representative": "Philip Mataranyika / CEO",
+        "MemberSince": "01/01/2009",
+        "Membership": "Gold",
+        "logo": "https://panamcham.com/sites/default/files/styles/member_directory_logo/public/aiesec_blue_logo.png?itok=TJbgKNGP"
+    }
+]
