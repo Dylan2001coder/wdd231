@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <meta property="og:title" content="Directory | Chamber Zimbabwe">
+    <meta property="og:type" content="website">
+    
+
+
+    <title>Discover | Zimbabwe Chamber of Commerce</title>
+    <meta name="description" content="Chamber directory, Zimbabwe" />
+    <meta name="author" content="Dylan k Ncube" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preload"
+        href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@400;700&display=swap" as="style"
+        onload="this.onload=null;this.rel='stylesheet'">
+    <noscript>
+        <link rel="stylesheet"
+            href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@400;700&display=swap">
+    </noscript>
+
+    <link rel="stylesheet" href="styles/normalize.css" />
+    <link rel="stylesheet" href="styles/global.css" />
+
+    <script type="module" src="./scripts/app.js"></script>
+    <script src="./scripts/modules/discover.js" defer></script>
+
+
+    <link rel="icon" href="images/favicon-main-modified.ico" sizes="48x48" type="image/ico">
+    <script src="https://kit.fontawesome.com/e0a574ddb0.js" crossorigin="anonymous"></script>
+</head>
+
+<body id="discover-page">
+    <header>
+        <nav>
+            <div class="box-logo-header">
+                <img class="logo-chamber" src="images/logo.jpg" alt="Logo Chamber Zimbabwe" />
+                <h1 class="nameHeader">Zimbabwe<br>Chamber of Ecomerces</h1>
+                <button name="navigation button" id="menu" aria-label="Toggle menu"></button>
+            </div>
+            <ul>
+                <li><a class="nav-a " href="./index.html">Home</a></li>
+                <li><a class="nav-a " href="./discover.html">Discover</a></li>
+                <li><a class="nav-a " href="./directory.html">Directory</a></li>
+                <li><a class="nav-a " href="./join.html">Join</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="discover">
+        <section class="side-bar">
+            <article class="article-01">
+                <header>
+                    <h3>Demographics</h3>
+                </header>
+                <ul>
+                    <li><strong>Capital:</strong> Harare</li>
+                    <li><strong>Currencies:</strong> Zimbabwean Dollar, ZIG</li>
+                    <li><strong>Official language:</strong> English</li>
+                    <li><strong>Population:</strong> 16,805,272 </li>
+                    <li><strong>Dialing code:</strong> +263</li>
+                </ul>
+            </article>
+            <article id="article-02" class="article-02">
+            </article>
+            <article class="article-03">
+                <table id="calendar">
+                    <caption></caption> <!-- Moved out of thead -->
+                    <thead>
+                        <tr>
+                            <th>Mon</th>
+                            <th>Tue</th>
+                            <th>Wed</th>
+                            <th>Thur</th>
+                            <th>Fri</th>
+                            <th>Sat</th>
+                            <th>Sun</th>
+                        </tr>
+                    </thead>
+                    <tbody> </tbody>
+                </table>
+            </article>
+
+        </section>
+        <section class="local-photos">
+            <figure>
+                <img data-src="images/load-imagen-01.png" src="images/elves14.jpg"
+                    alt="Beautiful " class="lazy-image" loading="lazy">
+                <figcaption>Beautiful cave</figcaption>
+            </figure>
+            <figure>
+                <img data-src="images/load-imagen-02.png" src="images/rafting4_1024.jpg" alt="Rafting sites"
+                    class="lazy-image" loading="lazy">
+                <figcaption>Rafting area</figcaption>
+            </figure>
+            <figure>
+                <img data-src="images/load-imagen-03.png" src="images/rural.jpg" alt="Ancient Houses"
+                    class="lazy-image" loading="lazy">
+                <figcaption>Historic town square</figcaption>
+            </figure>
+            <figure>
+                <img data-src="images/load-imagen-04.png" src="images/mountains.jpg" alt="Mountain landscape"
+                    class="lazy-image" loading="lazy">
+                <figcaption>Mountain landscape</figcaption>
+            </figure>
+            <figure>
+                <img data-src="images/load-imagen-05.png" src="images/culture.jpg" alt="Our Culture"
+                    class="lazy-image" loading="lazy">
+                <figcaption>Our Culture</figcaption>
+            </figure>
+            <figure>
+                <img data-src="images/load-imagen-06.png" src="images/matombo.jpg" alt="Vibrant city skyline"
+                    class="lazy-image" loading="lazy">
+                <figcaption>Vibrant city skyline</figcaption>
+            </figure>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy;<span id="currentyear">Lorem</span> Dylan K Ncube |
+            Zimbabwe</p>
+        <p id="lastModified">Lorem ipsum</p>
+    </footer>
+
+</body>
+
+</html>
